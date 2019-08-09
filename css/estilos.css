@@ -1,9 +1,12 @@
-table, th, tr{
-    border-style: solid;
-    margin-left: 150px;
+table, th, tr, td{
+    border-style: double;
+    border: "2";
+    width: 500px;
+    margin-left: 50px;
     margin-top: 50px;
     text-align: center;
 }
+
 
 .contenedor1{
     margin-left: 50px;
