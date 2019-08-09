@@ -1,11 +1,11 @@
-table, col, th, tr{
+table, th, tr{
     border-style: solid;
     margin-left: 150px;
     margin-top: 50px;
     text-align: center;
 }
 
-.contenedor2{
+.contenedor1{
     margin-left: 50px;
 }
 

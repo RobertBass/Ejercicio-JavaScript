@@ -84,7 +84,7 @@ function crearTabla() {
         tr.appendChild(th);
     }
 
-    
+
     for (var i = 0; i < estudiantes.length; i++) {
         tr = table.insertRow(-1);
         for (var j = 0; j < cols.length; j++) {
@@ -104,7 +104,7 @@ function crearTabla() {
 
 function CalcularPromedio(json) {
     var suma = 0;
-    var res = "";
+    var res;
 
     for (var i = 0; i < json.length; i++) {
         suma += json[i].Nota;
