@@ -1,0 +1,32 @@
+table, col, th, tr{
+    border-style: solid;
+    margin-left: 150px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.contenedor2{
+    margin-left: 50px;
+}
+
+#resultado{
+    margin-left: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18pt;
+
+    
+}
+
+a{
+    margin-left: 41%;
+}
+
+.menu{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: darkblue;
+    margin-left: 50px;
+}
